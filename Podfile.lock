@@ -1,0 +1,24 @@
+PODS:
+  - Alertift (4.1.1)
+  - BlueCapKit (0.7.0)
+  - FontAwesome.swift (1.8.2)
+
+DEPENDENCIES:
+  - Alertift (~> 4.1)
+  - BlueCapKit (~> 0.7.0)
+  - FontAwesome.swift
+
+SPEC REPOS:
+  trunk:
+    - Alertift
+    - BlueCapKit
+    - FontAwesome.swift
+
+SPEC CHECKSUMS:
+  Alertift: 950483ca193717cc8bb508a7dbbe34f4af321daf
+  BlueCapKit: b13b8715d4de6f325971c4dd5bc33598697dad2f
+  FontAwesome.swift: 7938d6a03113ff3f39001bde7f50be8a0903d605
+
+PODFILE CHECKSUM: 0b92d536a1d4e3446f8e194d4025006fd9b81a0a
+
+COCOAPODS: 1.8.4
